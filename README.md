@@ -3,3 +3,7 @@ Models for predicting the critical temperature are constructed on the widest bas
 ## Code:
 ### MODEL_FEATURE_SELECTION - сode for model training and feature selection.
 ### NEW_SC - Code for predicting the critical temperature of new booster superconducting materials and creating the databases required for this.
+## Initial Data:
+### sc_min - superconducting material data with a minimum measured value;
+### sc_mean - superconducting material data with a mean measured value;
+### sc_max - superconducting material data with a max measured value;
