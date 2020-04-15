@@ -7,3 +7,8 @@ Models for predicting the critical temperature are constructed on the widest bas
 ### sc_min - superconducting material data with a minimum measured value;
 ### sc_mean - superconducting material data with a mean measured value;
 ### sc_max - superconducting material data with a max measured value;
+## Data of positive, negative ions, metals for modeling:
+### one_metals - metals
+### one_plus - positive ions
+### one_chast_plus - most common positive ions
+### one_minus - negative ions
