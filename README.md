@@ -12,3 +12,17 @@ Models for predicting the critical temperature are constructed on the widest bas
 ### one_plus - positive ions
 ### one_chast_plus - most common positive ions
 ### one_minus - negative ions
+## Some simulated superconducting materials, their composition, critical temperature:
+### res_two_rfst_max.csv	
+### res_two_rfst_mean.csv	
+### res_alloys_025_05_025.csv	
+### res_alloys_05_025_025.csv	
+### res_alloys_025_025_05.csv	
+### res_alloys_03_03_03.csv	
+### res_alloys_03_02.csv	
+### res_alloys_03_01.csv	
+### res_alloys_02_01.csv	
+### res_alloys_01_03.csv	
+### res_alloys_05_05.csv	
+### res_two_rfst_min.csv	
+### res_two_rfst_chast.csv
